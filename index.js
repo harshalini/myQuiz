@@ -32,11 +32,11 @@ var questions = [{
   answer: "29-10-2002"
 },
 {
-  question: "In which state I live?" ,
+  question: "In which state I live? ",
   answer: "Maharashtra"
 },
 {
-  question: "What I want to do in future, web development or artificial intelligence?" ,
+  question: "What I want to do in future, web development or artificial intelligence? ",
   answer: "Web development"
 } 
   ];
